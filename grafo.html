@@ -11,6 +11,8 @@
 
         (function() {
             
+            import { UnrealBloomPass } from '//cdn.skypack.dev/three/examples/jsm/postprocessing/UnrealBloomPass.js';
+            
             console.log('ForceGraph3D')
             console.log(ForceGraph3D)
 
@@ -1183,8 +1185,13 @@
             (document.getElementById('3d-graph'))
                 .graphData(gData)
                 .nodeLabel('secret_id')
-                .linkDirectionalArrowLength(3.5)
                 .nodeAutoColorBy('group')
+            
+             const bloomPass = new UnrealBloomPass();
+             bloomPass.strength = 3;
+             bloomPass.radius = 1;
+             bloomPass.threshold = 0.1;
+             Graph.postProcessingComposer().addPass(bloomPass);
         })();
 
     </script>
