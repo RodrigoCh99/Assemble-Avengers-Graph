@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-# **O que é o projeto?**
+### **O que é o projeto?**
 
 <div style="text-align: justify">
 <h6>
@@ -12,7 +12,7 @@ filename: index
 </h6>
 </div>
 
-# **Inspiração:**
+### **Inspiração:**
 
 <div style="text-align: justify">
   <h6>Em 2016 os pesquisadores Andrew Beveridge e Jie Shan ambos da Macalester College publicaram um artigo no periódico Math Horizons da Mathematical Association of America. 
