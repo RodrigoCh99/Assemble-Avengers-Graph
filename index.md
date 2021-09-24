@@ -4,12 +4,9 @@ layout: template
 filename: index
 --- 
 
-# Assemble Marvel Graphs
+# O que é o projeto?
 
-## Created by [Rodrigo Ch](https://github.com/RodrigoCh99) 
-
-#### O que é o projeto?
-This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
+<div style="text-align: justify">O Assemble Marvel Graphs é um estudo sobre teoria dos grafos, a idéia é explorar esse que é um dos campos mais interessantes e abrangentes da ciência da computação, de maneira divertida, com exemplos usando os super-herois dos quadrinhos da marvel.</div>
 
 #### Inspiração:
 Come to office hours and git tutorials. Baked goods and cash are also accepted.
