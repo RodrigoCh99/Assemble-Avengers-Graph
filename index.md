@@ -15,4 +15,5 @@ This project aims to demonstrate without a doubt why Patrick and Franton are the
 Come to office hours and git tutorials. Baked goods and cash are also accepted.
 
 #### TESTE
-[link](https://https://rodrigoch99.github.io/Assemble-Avengers-Graph/teste) 
+[link](https://rodrigoch99.github.io/Assemble-Avengers-Graph/teste) 
+
