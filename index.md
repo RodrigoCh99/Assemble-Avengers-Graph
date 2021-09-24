@@ -15,14 +15,14 @@ filename: index
 # **Inspiração:**
 
 <div style="text-align: justify">
-  <h5>Em 2016 os pesquisadores Andrew Beveridge e Jie Shan ambos da Macalester College publicaram um artigo no periódico Math Horizons da Mathematical Association of America. 
-</h5>
-<h5>
+  <h6>Em 2016 os pesquisadores Andrew Beveridge e Jie Shan ambos da Macalester College publicaram um artigo no periódico Math Horizons da Mathematical Association of America. 
+</h6>
+<h6>
   Neste estudo, foi modelado um grafo em que os personágens da franquia Game of Thrones são os Nós e um algoritmo de Natural Language Processing escaneia todos os livros (lançados até 2016) e caso o nome de dois personágens esteja á uma distância especifica de palavras ou frases é traçada um relacionamento entre seus nós. 
-</h5>
-<h5>
+</h6>
+<h6>
   Foi então que o estudo ganhou grande popularidade na mídia com diversos artigos afirmando que os matemáticos conseguiram descobrir quem é o protagonista principal da saga. Neste momento, o estudo chegou até os blogs de ciência de dados e machine learning brasileiros e inpirou a criação de um novo com o mesmo objetivo, aplicar o estudo de teoria dos grafos a um produto de entretenimento. Este estudo é o que vocẽ conhecerá agora. 
-</h5>
+</h6>
 </div>
 
 #### TESTE
