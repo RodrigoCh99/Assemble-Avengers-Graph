@@ -21,7 +21,7 @@ filename: index
   Neste estudo, foi modelado um grafo em que os personágens da franquia Game of Thrones são os Nós e um algoritmo de Natural Language Processing escaneia todos os livros (lançados até 2016) e caso o nome de dois personágens esteja á uma distância especifica de palavras ou frases é traçada um relacionamento entre seus nós. 
 </h6>
 <h6>
-  Foi então que o estudo ganhou grande popularidade na mídia com diversos artigos afirmando que os matemáticos conseguiram descobrir quem é o protagonista principal da saga. Neste momento, o estudo chegou até os blogs de ciência de dados e machine learning brasileiros e inpirou a criação de um novo com o mesmo objetivo, aplicar o estudo de teoria dos grafos a um produto de entretenimento. Este estudo é o que vocẽ conhecerá agora. 
+  Foi então que o estudo ganhou grande popularidade na mídia com diversos artigos afirmando que os matemáticos conseguiram descobrir quem é o protagonista principal da saga. Neste momento, o estudo chegou até os blogs de ciência de dados e machine learning brasileiros e inspirou a criação de um novo experimento com o mesmo objetivo, aplicar o estudo de teoria dos grafos a um produto de entretenimento. Este esperimento é o que vocẽ conhecerá agora. 
 </h6>
 </div>
 
