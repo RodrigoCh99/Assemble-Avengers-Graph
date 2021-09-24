@@ -1190,9 +1190,9 @@
                 .linkDirectionalArrowRelPos(1)
             
                 const bloomPass = new UnrealBloomPass();
-                bloomPass.strength = 3;
+                bloomPass.strength = 1;
                 bloomPass.radius = 1;
-                bloomPass.threshold = 0.01;
+                bloomPass.threshold = 0.1;
                 Graph.postProcessingComposer().addPass(bloomPass)
         })();
 
