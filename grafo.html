@@ -15,7 +15,8 @@
                       
             console.log('ForceGraph3D')
             console.log(ForceGraph3D)
-
+    
+            /*
             var links = [
                 {
                     "source": 252,
@@ -1169,20 +1170,25 @@
                     "group": 15
                 }
             ]
+            
 
             console.log(nodes)
             console.log(links)
+            */
 
-
+            /*
             const gData = {
             nodes: nodes,
             links: links
             };
+            
 
             console.log(gData)
+            */
 
             const Graph = ForceGraph3D()
             (document.getElementById('3d-graph'))
+                .jsonUrl('/data/anos_1960.json')
                 .graphData(gData)
                 .nodeOpacity(1)
                 .nodeResolution(16)
