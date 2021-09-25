@@ -25,9 +25,10 @@
                 .nodeAutoColorBy('group')
                 .linkDirectionalArrowLength(1.5)
                 .linkDirectionalArrowRelPos(1)
+                .linkCurvature(0.25);
             
                 const bloomPass = new UnrealBloomPass();
-                bloomPass.strength = 1.00;
+                bloomPass.strength = 1.25;
                 bloomPass.radius = 1;
                 bloomPass.threshold = 0.1;
                 Graph.postProcessingComposer().addPass(bloomPass)
