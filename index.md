@@ -41,14 +41,8 @@ filename: index
 #### TESTE
 [link](https://rodrigoch99.github.io/Assemble-Avengers-Graph/teste) 
 
-#### 1960
-[link](https://rodrigoch99.github.io/Assemble-Avengers-Graph/grafo) 
-
 #### 1960 ---------------------------- 2
 [link](https://rodrigoch99.github.io/Assemble-Avengers-Graph/grafos/anos_1960) 
-
-#### 1970
-[link](https://rodrigoch99.github.io/Assemble-Avengers-Graph/grafo2) 
 
 #### 1970 ----------------------------- 2
 [link](https://rodrigoch99.github.io/Assemble-Avengers-Graph/grafos/anos_1970) 
