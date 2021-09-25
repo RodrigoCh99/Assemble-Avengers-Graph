@@ -1,100 +1,101 @@
 {
-  "nodes": [
-            {
-                "id": 252,
-                "secret_id": "Janet Van Dyne",
-                "current_alias": "Wasp",
-                "group": 1
+    "nodes": [
 
-            },
-            {
-                "id": 131,
-                "secret_id": "Dr. Henry Jonathan \"Hank\" Pym",
-                "current_alias": "Giant-Man",
-                "group": 2
-            },
-            {
-                "id": 138,
-                "secret_id": "Dr. Robert Bruce Banner",
-                "current_alias": "Hulk",
-                "group": 3
-            },
-            {
-                "id": 127,
-                "secret_id": "Dr. Donald M. \"Don\" Blake",
-                "current_alias": "Donald Blake",
-                "group": 4
-            },
-            {
-                "id": 478,
-                "secret_id": "Steven \"Steve\" Rogers",
-                "current_alias": "Captain America",
-                "group": 5
-            },
-            {
-                "id": 412,
-                "secret_id": "Pietro Django Maximoff",
-                "current_alias": "Quicksilver",
-                "group": 6
+        {
+            "id": 252,
+            "secret_id": "Janet Van Dyne",
+            "current_alias": "Wasp",
+            "group": 1
 
-            },
-            {
-                "id": 575,
-                "secret_id": "Wanda Django Maximoff",
-                "current_alias": "Scarlet Witch",
-                "group": 7                 
-            },
-            {
-                "id": 78,
-                "secret_id": "Clinton Francis \"Clint\" Barton",
-                "current_alias": "Hawkeye",
-                "group": 8
-            },
-            {
-                "id": 229,
-                "secret_id": "Hercules Panhellenios",
-                "current_alias": "Hercules",
-                "group": 9
-            },
-            {
-                "id": 509,
-                "secret_id": "Ultron",
-                "current_alias": "Ultron Pym",
-                "group": 10
-            },
-            {
-                "id": 615,
-                "secret_id": "\"The Vision\"",
-                "current_alias": "Vision",
-                "group": 11
-            },
-            {
-                "id": 490,
-                "secret_id": "T'Challa",
-                "current_alias": "Black Panther",
-                "group": 12
-            },
-            {
-                "id": 90,
-                "secret_id": "Dane Whitman",
-                "current_alias": "Black Knight",
-                "group": 13
-            },
-            {
-                "id": 27,
-                "secret_id": "Anthony Edward \"Tony\" Stark",
-                "current_alias": "Iron Man",
-                "group": 14
-            },
-            {
-                "id": 237,
-                "secret_id": "Jacques Duquesne",
-                "current_alias": "Swordsman",
-                "group": 15
-            }
-     ],
-  
-  "links": [
+        },
+        {
+            "id": 131,
+            "secret_id": "Dr. Henry Jonathan \"Hank\" Pym",
+            "current_alias": "Giant-Man",
+            "group": 2
+        },
+        {
+            "id": 138,
+            "secret_id": "Dr. Robert Bruce Banner",
+            "current_alias": "Hulk",
+            "group": 3
+        },
+        {
+            "id": 127,
+            "secret_id": "Dr. Donald M. \"Don\" Blake",
+            "current_alias": "Donald Blake",
+            "group": 4
+        },
+        {
+            "id": 478,
+            "secret_id": "Steven \"Steve\" Rogers",
+            "current_alias": "Captain America",
+            "group": 5
+        },
+        {
+            "id": 412,
+            "secret_id": "Pietro Django Maximoff",
+            "current_alias": "Quicksilver",
+            "group": 6
+
+        },
+        {
+            "id": 575,
+            "secret_id": "Wanda Django Maximoff",
+            "current_alias": "Scarlet Witch",
+            "group": 7                 
+        },
+        {
+            "id": 78,
+            "secret_id": "Clinton Francis \"Clint\" Barton",
+            "current_alias": "Hawkeye",
+            "group": 8
+        },
+        {
+            "id": 229,
+            "secret_id": "Hercules Panhellenios",
+            "current_alias": "Hercules",
+            "group": 9
+        },
+        {
+            "id": 509,
+            "secret_id": "Ultron",
+            "current_alias": "Ultron Pym",
+            "group": 10
+        },
+        {
+            "id": 615,
+            "secret_id": "\"The Vision\"",
+            "current_alias": "Vision",
+            "group": 11
+        },
+        {
+            "id": 490,
+            "secret_id": "T'Challa",
+            "current_alias": "Black Panther",
+            "group": 12
+        },
+        {
+            "id": 90,
+            "secret_id": "Dane Whitman",
+            "current_alias": "Black Knight",
+            "group": 13
+        },
+        {
+            "id": 27,
+            "secret_id": "Anthony Edward \"Tony\" Stark",
+            "current_alias": "Iron Man",
+            "group": 14
+        },
+        {
+            "id": 237,
+            "secret_id": "Jacques Duquesne",
+            "current_alias": "Swordsman",
+            "group": 15
+        }
+    ],
+
+    "links": [
         {
             "source": 252,
             "target": 27
@@ -1151,7 +1152,6 @@
             "source": 615,
             "target": 90
         }
-  ]
-  
+    ]
 
 }
